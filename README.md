@@ -4,31 +4,30 @@ Description in English.
 
 [Read this in Swedish](./README.se.md)
 
-## About
+## About the Template
 
-This Unity Template is a robust foundation for initiating projects in Unity, utilizing the GameObject/MonoBehaviour architecture. It offers an organized and detailed framework, making it versatile for a wide range of game development endeavors.
+This Unity Template is a robust foundation for kickstarting projects in Unity, utilizing the GameObject/MonoBehaviour architecture. It offers an organized and detailed structure, making it a versatile solution for a variety of game development projects.
 
 ## Repository Structure
 
-- **.vscode**: This folder contains configurations for Visual Studio Code, ensuring a consistent coding environment.
-- **Assets**: Organized into various categories (Animations, Scripts, Sounds, etc.), this folder includes assets and their corresponding meta files for easier management.
-- **ProjectSettings**: Here, you'll find crucial Unity project settings files that dictate the overall behavior of your project.
+- **.vscode**: This folder contains configurations for Visual Studio Code to ensure a consistent coding environment.
+- **Assets**: Divided into various categories like `Animations`, `Scripts`, `Sounds`, etc., this folder includes assets and their corresponding meta files, facilitating easier management.
+- **ProjectSettings**: Here, you'll find important Unity project settings files that control the overall behavior of your project.
 
-## Configuring for 3D and Other Project Types
+## Configuring for 3D and Other Types of Projects
 
-Although initially set for 2D applications, this template can be swiftly reconfigured for 3D or other types of projects by following these steps:
+Although initially set up for 2D applications, this template can easily be reconfigured for 3D or other types of projects by following these steps:
 1. Launch the project in Unity.
-2. Go to `Edit > Project Settings`.
-3. Modify the `Graphics` settings to align with 3D requirements.
-4. Tweak additional settings like Physics, Quality, and Layer to match the specific needs of your project.
+2. Navigate to `Edit > Project Settings`.
+3. Modify the `Graphics` settings to suit 3D requirements.
+4. Adjust additional settings like `Physics`, `Quality`, and `Layer` to meet the specific needs of your project.
 
 ## How to Use
 
 1. On the repository page, click the "Use this template" button.
-2. Generate a new repository using this template.
-3. Clone the new repository and open it in Unity to commence your project.
+2. Create a new repository using this template.
+3. Clone the new repository and open it in Unity to start your project.
 
 ## License
 
-This project is distributed under the Unlicense, which permits unrestricted use. Please note that contributions and forks are currently not supported for this template.
-
+This project is distributed under the Unlicense, which allows for unrestricted use. Note that contributions and forks are currently not supported for this template.
