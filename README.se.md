@@ -28,6 +28,13 @@ Denna Unity-mall utgör en robust grund för att kickstarta projekt i Unity, gen
 2. Skapa ett nytt kodförråd med hjälp av denna mall.
 3. Klona det nya kodförrådet och öppna det i Unity för att starta ditt projekt.
 
+## Dokumentation
+
+Att förstå hur man arbetar med GameObject/MonoBehaviour-arkitekturen i Unity är kritiskt för att kunna använda denna mall på ett effektivt sätt. Här är några nyttiga resurser:
+- [Unitys Officiella Dokumentation](https://docs.unity3d.com/Manual/index.html): Utförliga guider och instruktionsmaterial som erbjuds av Unity.
+- [Grundkurs i Unity](https://learn.unity.com/course/getting-started-with-unity): En kurs lämplig för nybörjare som behandlar de grundläggande koncepten och arbetsprocesserna i Unity.
+- [Genomgång av MonoBehaviour](https://learn.unity.com/tutorial/monobehaviour): Lär dig mer om MonoBehaviour-klassen och dess funktion i utvecklingen av Unity-spel.
+
 ## Licens
 
 Detta projekt distribueras under Unlicense, vilket tillåter fri användning. Observera att bidrag och forkningar för närvarande inte stöds för denna mall.
