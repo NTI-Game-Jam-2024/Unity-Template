@@ -1,8 +1,8 @@
 # Unity-Template
 
-Beskrivning på engelska.
+Beskrivning på Svenska.
 
-[Läs detta på svenska](./README.se.md)
+[Läs detta på engelska](./README.md)
 
 ## Om mallen
 
