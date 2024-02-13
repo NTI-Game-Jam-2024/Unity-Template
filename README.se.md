@@ -1,40 +1,33 @@
-# Unity Template
+# Unity-Template
 
-Description in English.
+Beskrivning på engelska.
 
-[Read this in Swedish](./README.se.md)
+[Läs detta på svenska](./README.se.md)
 
-## About
+## Om mallen
 
-This Unity Template is designed to kickstart projects in Unity, emphasizing the default GameObject/MonoBehaviour architecture. It provides a structured and comprehensive setup, suitable for various types of game development projects.
+Denna Unity-mall utgör en robust grund för att kickstarta projekt i Unity, genom att använda sig av GameObject/MonoBehaviour-arkitekturen. Mallen erbjuder en välorganiserad och detaljerad struktur, vilket gör den till en mångsidig lösning för en mängd olika spelutvecklingsprojekt.
 
-## Repository Structure
+## Struktur för kodförrådet
 
-- **.vscode**: Contains settings for Visual Studio Code.
-- **Assets**: Various asset categories (Animations, Scripts, Sounds, etc.) with meta files.
-- **ProjectSettings**: Essential Unity project settings files.
+- **.vscode**: I denna mapp finns konfigurationer för Visual Studio Code för att garantera en konsekvent kodningsmiljö.
+- **Assets**: Uppdelade i olika kategorier som `Animations`, `Scripts`, `Sounds` med mera. Denna mapp innehåller tillgångar och deras motsvarande metafiler, vilket underlättar hanteringen.
+- **ProjectSettings**: Här finner du viktiga inställningsfiler för Unity-projektet som styr projektets övergripande beteende.
 
-## Configuring for 3D and Other Types
+## Konfigurering för 3D och andra typer av projekt
 
-Currently set up for 2D applications, this template can be easily adapted for 3D or other project types:
-1. Open the project in Unity.
-2. Navigate to `Edit > Project Settings`.
-3. In the `Graphics` settings, change the rendering settings to suit 3D requirements.
-4. Adjust other settings like Physics, Quality, and Layer settings as per your project's need.
+Även om den initialt är inställd för 2D-applikationer, kan mallen enkelt konfigureras om för 3D eller andra projekttyper genom att följa dessa steg:
+1. Starta projektet i Unity.
+2. Navigera till `Edit > Project Settings`.
+3. Ändra `Graphics`-inställningarna för att passa 3D-kraven.
+4. Anpassa ytterligare inställningar som `Physics`, `Quality` och `Layer` efter projektets specifika behov.
 
-## How to Use
+## Användningsinstruktioner
 
-1. Click "Use this template" on the repository page.
-2. Create a new repository from this template.
-3. Clone and open in Unity to start your project.
+1. På kodförrådets sida, klicka på "Use this template"-knappen.
+2. Skapa ett nytt kodförråd med hjälp av denna mall.
+3. Klona det nya kodförrådet och öppna det i Unity för att starta ditt projekt.
 
-## Documentation
+## Licens
 
-Understanding how to work with the GameObject/MonoBehaviour architecture in Unity is crucial for utilizing this template effectively. Here are some helpful resources:
-- [Unity Official Documentation](https://docs.unity3d.com/Manual/index.html): Comprehensive guides and tutorials provided by Unity.
-- [Introduction to Unity](https://learn.unity.com/course/getting-started-with-unity): A beginner-friendly course covering basic concepts and workflows in Unity.
-- [MonoBehaviour Overview](https://learn.unity.com/tutorial/monobehaviour): Learn about the MonoBehaviour class and its role in Unity game development.
-
-## License
-
-This project is under the Unlicense, allowing unrestricted use. Note: Contributions and forks are not enabled.
+Detta projekt distribueras under Unlicense, vilket tillåter fri användning. Observera att bidrag och forkningar för närvarande inte stöds för denna mall.
