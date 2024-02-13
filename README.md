@@ -6,40 +6,29 @@ Description in English.
 
 ## About
 
-This Unity Template is designed to kickstart projects in Unity utilizing the GameObject/MonoBehaviour architecture. It provides a structured and comprehensive setup, suitable for various types of game development projects.
+This Unity Template is a robust foundation for initiating projects in Unity, utilizing the GameObject/MonoBehaviour architecture. It offers an organized and detailed framework, making it versatile for a wide range of game development endeavors.
 
 ## Repository Structure
 
-- **.vscode**: Contains settings for Visual Studio Code.
-- **Assets**: Various asset categories (Animations, Scripts, Sounds, etc.) with meta files.
-- **ProjectSettings**: Essential Unity project settings files.
+- **.vscode**: This folder contains configurations for Visual Studio Code, ensuring a consistent coding environment.
+- **Assets**: Organized into various categories (Animations, Scripts, Sounds, etc.), this folder includes assets and their corresponding meta files for easier management.
+- **ProjectSettings**: Here, you'll find crucial Unity project settings files that dictate the overall behavior of your project.
 
-## Configuring for 3D and Other Types
+## Configuring for 3D and Other Project Types
 
-Currently set up for 2D applications, this template can be easily adapted for 3D or other project types:
-1. Open the project in Unity.
-2. Navigate to `Edit > Project Settings`.
-3. In the `Graphics` settings, change the rendering settings to suit 3D requirements.
-4. Adjust other settings like Physics, Quality, and Layer settings as per your project's need.
+Although initially set for 2D applications, this template can be swiftly reconfigured for 3D or other types of projects by following these steps:
+1. Launch the project in Unity.
+2. Go to `Edit > Project Settings`.
+3. Modify the `Graphics` settings to align with 3D requirements.
+4. Tweak additional settings like Physics, Quality, and Layer to match the specific needs of your project.
 
 ## How to Use
 
-1. Click "Use this template" on the repository page.
-2. Create a new repository from this template.
-3. Clone and open in Unity to start your project.
+1. On the repository page, click the "Use this template" button.
+2. Generate a new repository using this template.
+3. Clone the new repository and open it in Unity to commence your project.
 
 ## License
 
-This project is under the Unlicense, allowing unrestricted use. Note: Contributions and forks are not enabled.
-
-
-
-
-
-
-
-
-
-
-
+This project is distributed under the Unlicense, which permits unrestricted use. Please note that contributions and forks are currently not supported for this template.
 
